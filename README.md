@@ -30,7 +30,7 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 10. [Zod](https://www.npmjs.com/package/zod).
 11. [Zustand](https://www.npmjs.com/package/zustand).
 12. Uso de Spinners ([Spinkit](https://tobiasahlin.com/spinkit/)).
-13. [heroicons/react][(https://www.npmjs.com/package/@heroicons/react).
+13. [heroicons/react](https://www.npmjs.com/package/@heroicons/react).
 14. Y más.
 
 
